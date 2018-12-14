@@ -1,0 +1,36 @@
+.jumbotron-fluid{
+background-image: url('../img/download.jpg');
+    background-size: cover;
+ height: 40vh;
+   
+/*    width: 100%;*/
+  
+    
+}
+#avatar{
+    height: 20vh;
+    
+}
+.container{
+    width: 80%;
+}
+.fab{
+    font-size: 3rem;
+}
+.fa-html5{
+    color:coral;
+}
+.fa-database{
+    font-size: 3rem;
+    color: yellowgreen;
+}
+.fa-js{
+    color: darkorange;
+}
+.fa-python{
+    color: brown;
+    
+}
+.p{
+    font-size: 2.5rem;
+}
