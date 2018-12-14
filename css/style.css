@@ -25,11 +25,16 @@ background-image: url('../img/download.jpg');
     color: yellowgreen;
 }
 .fa-js{
-    color: darkorange;
+    color: forestgreen;
 }
 .fa-python{
-    color: brown;
-    
+    color: brown;  
+}
+.fa-sass{
+    color: cornflowerblue;
+}
+.fa-css3-alt{
+    color: darkseagreen;
 }
 .p{
     font-size: 2.5rem;
